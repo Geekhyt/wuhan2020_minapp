@@ -1,0 +1,17 @@
+
+.block-container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.block-style {
+    width: 300px;
+    height: 300px;
+    color: white;
+    background-color: #78A4FA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+}

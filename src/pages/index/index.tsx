@@ -91,6 +91,11 @@ class Index extends Component {
             url: '/pages/about/index'
           })
         }}>关于我们</Button>
+        {/* <Button className='dec_btn' onClick={() => {
+          Taro.navigateTo({
+            url: '/pages/demand-side/create/index'
+          })
+        }}>发起求助</Button> */}
         <View><Text>{this.props.counter.num}</Text></View>
         <View><Text>首页</Text></View>
       </View>
